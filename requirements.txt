@@ -1,0 +1,11 @@
+# --- core web framework ---
+fastapi>=0.111.0
+
+# --- ASGI server with hot-reload, HTTP/2, websockets, etc. ---
+uvicorn[standard]>=0.29.0
+
+# --- Telegram bot SDK (3.x series) ---
+aiogram>=3.7.0
+
+# --- .env file loader ---
+python-dotenv>=1.0.1
